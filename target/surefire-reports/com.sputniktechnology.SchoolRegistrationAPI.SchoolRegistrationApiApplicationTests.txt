@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sputniktechnology.SchoolRegistrationAPI.SchoolRegistrationApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.334 s - in com.sputniktechnology.SchoolRegistrationAPI.SchoolRegistrationApiApplicationTests
